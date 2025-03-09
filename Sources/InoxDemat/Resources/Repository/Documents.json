@@ -1,0 +1,42 @@
+[
+  {
+    "application" : "ARE",
+    "begin" : "18-10-2024",
+    "enable" : true,
+    "end" : "14-04-2025",
+    "file" : "2024-10 Fiche Info MA RETRAITE",
+    "ged_doc_id_pprod" : "{B6134457-1229-4309-8192-8FF53722B231}",
+    "ged_doc_id_prod" : "{B6134457-1229-4309-8192-8FF53722B231}",
+    "ged_doc_id_recette" : "{B6134457-1229-4309-8192-8FF53722B231}",
+    "ged_doc_name" : "975504-FICHE_INFORMATIONS_MA_RETRAITE.pdf",
+    "id" : "53",
+    "mandatory" : true,
+    "name" : "Fiche Clients - Caractéristiques principales MA RETRAITE",
+    "number_pages" : 4,
+    "product_id" : "96904",
+    "product_name" : "MA RETRAITE",
+    "selected" : true,
+    "state" : "Not Read",
+    "type" : "3"
+  },
+  {
+    "application" : "ARE",
+    "begin" : "14-04-2025",
+    "enable" : true,
+    "end" : "01-01-2099",
+    "file" : "2025-02 Fiche Info MA RETRAITE",
+    "ged_doc_id_pprod" : "{0C3C8AF7-6002-431C-B79B-084D16474920}",
+    "ged_doc_id_prod" : "{0C3C8AF7-6002-431C-B79B-084D16474920}",
+    "ged_doc_id_recette" : "{0C3C8AF7-6002-431C-B79B-084D16474920}",
+    "ged_doc_name" : "975504-FICHE_INFORMATIONS_MA_RETRAITE.pdf",
+    "id" : "54",
+    "mandatory" : true,
+    "name" : "Fiche Clients - Caractéristiques principales MA RETRAITE",
+    "number_pages" : 4,
+    "product_id" : "96904",
+    "product_name" : "MA RETRAITE",
+    "selected" : true,
+    "state" : "Not Read",
+    "type" : "3"
+  }
+]
